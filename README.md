@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sean, an undergraduate student from Hong Kong majoring in Artificial Intelligence. Feel free to take a look at some of my personal projects below!
+I'm Sean (or Hoàng Sơn), an undergraduate student from Hong Kong majoring in Artificial Intelligence. Feel free to take a look at some of my personal projects below!
 
 <!--
 **seanthesanta/seanthesanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
